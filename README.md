@@ -45,12 +45,12 @@
 
 ###
 
-<div align="left">
-  <a href="http://paypal.me/VIVALDIMAZZA" target="_blank">
+<div align="center">
+  <a href="http://paypal.me/VIVALDIMAZZA" target="_blank" style='margin-right: 10;'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
-  <a href="http://lynk.id/milyohiro/s/DaJ072Z" target="_blank">
-    <img src="https://home.oxygen.id/assets/images/info-pembayaran/qris-logo.png" width="52" height="40" alt="LYNK ID QRIS logo"  />
+  <a href="http://lynk.id/milyohiro/s/DaJ072Z" target="_blank" style='margin-left: 10;'>
+    <img src="https://home.oxygen.id/assets/images/info-pembayaran/qris-logo.png" width="64" height="40" alt="LYNK ID QRIS logo"  />
   </a>
 </div>
 
