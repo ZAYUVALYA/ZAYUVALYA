@@ -41,12 +41,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ZAYUVALYA" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <h3 align="left">A Little Coffee, A Big Support! ☕💙</h3>
 
 ###
@@ -56,7 +50,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
   <a href="http://lynk.id/milyohiro/s/DaJ072Z" target="_blank">
-    <img src="https://home.oxygen.id/assets/images/info-pembayaran/qris-logo.png" width="52" height="40" alt="lynk id logo"  />
+    <img src="https://home.oxygen.id/assets/images/info-pembayaran/qris-logo.png" width="52" height="40" alt="LYNK ID QRIS logo"  />
   </a>
 </div>
 
