@@ -45,7 +45,7 @@
 
 ###
 
-<div align="center">
+<div align="center"> 
   <a href="http://paypal.me/VIVALDIMAZZA" target="_blank" style='margin-right: 10;'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
