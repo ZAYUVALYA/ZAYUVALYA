@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="center">A Little Coffee, A Big Support! ☕💙</h2>
+<h2 align="center">A Little Coffee, A Big Support! ☕</h2>
 
 ###
 
